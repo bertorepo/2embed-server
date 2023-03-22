@@ -3,7 +3,7 @@ const jsonServer = require("json-server");
 const fs = require("fs");
 const path = require("path");
 const server = jsonServer.create();
-const db = JSON.stringify(fs.writeFileSync(path.join("/tmp", "db.json")));
+const db = JSON.parse(fs.readFileSync(path.join("/tmp", "db.json")));
 const router = jsonServer.router(db);
 const middlewares = jsonServer.defaults();
 
@@ -16,7 +16,7 @@ server.use(
   })
 );
 server.use(router);
-server.listen(8000, () => {
+server.listen(3001, () => {
   console.log("JSON Server is running");
 });
 
