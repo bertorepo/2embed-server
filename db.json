@@ -1,5 +1,36 @@
 {
   "movies": [
-   
+    {
+      "Title": "Fast & Furious 6",
+      "Year": "2013",
+      "imdbID": "tt1905041",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SX300.jpg",
+      "id": 1
+    },
+    {
+      "Title": "The Fast and the Furious",
+      "Year": "2001",
+      "imdbID": "tt0232500",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "id": 2
+    },
+    {
+      "Title": "2 Fast 2 Furious",
+      "Year": "2003",
+      "imdbID": "tt0322259",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "id": 3
+    },
+    {
+      "Title": "F9: The Fast Saga",
+      "Year": "2021",
+      "imdbID": "tt5433138",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_SX300.jpg",
+      "id": 4
+    }
   ]
 }
