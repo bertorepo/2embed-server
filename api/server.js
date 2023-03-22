@@ -3,7 +3,7 @@ const jsonServer = require("json-server");
 const fs = require("fs");
 const path = require("path");
 const server = jsonServer.create();
-const db = JSON.parse(fs.writeFileSync(path.join(__dirname, "db.json")));
+const db = JSON.stringify(fs.writeFileSync(path.join("/tmp", "db.json")));
 const router = jsonServer.router(db);
 const middlewares = jsonServer.defaults();
 
