@@ -1,7 +1,7 @@
 {
-  "name": "json-server-vercel",
+  "name": "2embed-server",
   "version": "1.0.0",
-  "description": "Deploy JSON Server to Vercel",
+  "description": "REST API for 2 embed",
   "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js"
