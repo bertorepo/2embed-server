@@ -4,7 +4,8 @@
   "description": "REST API for 2 embed",
   "main": "api/server.js",
   "scripts": {
-    "start": "node api/server.js"
+    "start": "node api/server.js",
+    "dev": "json-server -p 3001 --watch db.json"
   },
   "dependencies": {
     "json-server": "^0.17.0"
