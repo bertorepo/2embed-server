@@ -1,37 +1,6 @@
 {
   "movies": [
     {
-      "Title": "Prison Break",
-      "Year": "2005–2017",
-      "Rated": "TV-14",
-      "Released": "29 Aug 2005",
-      "Runtime": "44 min",
-      "Genre": "Action, Crime, Drama",
-      "Director": "N/A",
-      "Writer": "Paul T. Scheuring",
-      "Actors": "Dominic Purcell, Wentworth Miller, Amaury Nolasco",
-      "Plot": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the in...",
-      "Language": "English, Arabic, Spanish",
-      "Country": "United Kingdom, United States",
-      "Awards": "Nominated for 1 Primetime Emmy. 8 wins & 32 nominations total",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.3/10"
-        }
-      ],
-      "Metascore": "N/A",
-      "imdbRating": "8.3",
-      "imdbVotes": "544,518",
-      "imdbID": "tt0455275",
-      "Type": "series",
-      "totalSeasons": "5",
-      "Response": "True",
-      "isActive": true,
-      "id": 1
-    },
-    {
       "Title": "Fast & Furious 6",
       "Year": "2013",
       "imdbID": "tt1905041",
@@ -59,6 +28,76 @@
       "id": 4
     },
     {
+      "Title": "2 Fast 2 Furious",
+      "Year": "2003",
+      "imdbID": "tt0322259",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzExYjcyYWMtY2JkOC00NDUwLTg2OTgtMDI3MGY2OWQzMDE2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "id": 12
+    },
+    {
+      "Title": "The Fast and the Furious: Tokyo Drift",
+      "Year": "2006",
+      "imdbID": "tt0463985",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_SX300.jpg",
+      "id": 13
+    },
+    {
+      "Title": "Fast & Furious Presents: Hobbs & Shaw",
+      "Year": "2019",
+      "imdbID": "tt6806448",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "id": 14
+    },
+    {
+      "Title": "Creed",
+      "Year": "2015",
+      "imdbID": "tt3076658",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmZkYjQzY2QtNjdkNC00YjkzLTk5NjUtY2MyNDNiYTBhN2M2XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SX300.jpg",
+      "id": 15
+    },
+    {
+      "Title": "Assassin's Creed",
+      "Year": "2016",
+      "imdbID": "tt2094766",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzE1OTczNTc1OF5BMl5BanBnXkFtZTgwMzgyMDI3MDI@._V1_SX300.jpg",
+      "id": 16
+    },
+    {
+      "Title": "Prison Break",
+      "Year": "2005–2017",
+      "Rated": "TV-14",
+      "Released": "29 Aug 2005",
+      "Runtime": "44 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Paul T. Scheuring",
+      "Actors": "Dominic Purcell, Wentworth Miller, Amaury Nolasco",
+      "Plot": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the in...",
+      "Language": "English, Arabic, Spanish",
+      "Country": "United Kingdom, United States",
+      "Awards": "Nominated for 1 Primetime Emmy. 8 wins & 32 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "544,518",
+      "imdbID": "tt0455275",
+      "Type": "series",
+      "totalSeasons": "5",
+      "Response": "True",
+      "id": 17
+    },
+    {
       "Title": "Game of Thrones",
       "Year": "2011–2019",
       "Rated": "TV-MA",
@@ -81,22 +120,168 @@
       ],
       "Metascore": "N/A",
       "imdbRating": "9.2",
-      "imdbVotes": "2,127,392",
+      "imdbVotes": "2,140,757",
       "imdbID": "tt0944947",
       "Type": "series",
       "totalSeasons": "8",
       "Response": "True",
-      "isActive": true,
-      "id": 5
+      "id": 18
     },
     {
-      "Title": "Fast Five",
-      "Year": "2011",
-      "imdbID": "tt1596343",
+      "Title": "The Dark Knight",
+      "Year": "2008",
+      "imdbID": "tt0468569",
       "Type": "movie",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNTk5MTE0OF5BMl5BanBnXkFtZTcwMjA2NzY3NA@@._V1_SX300.jpg",
-      "isActive": true,
-      "id": 6
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+      "id": 19
+    },
+    {
+      "Title": "The Dark Knight Rises",
+      "Year": "2012",
+      "imdbID": "tt1345836",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+      "id": 20
+    },
+    {
+      "Title": "Thor: The Dark World",
+      "Year": "2013",
+      "imdbID": "tt1981115",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg",
+      "id": 21
+    },
+    {
+      "Title": "Avatar",
+      "Year": "2009",
+      "imdbID": "tt0499549",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+      "id": 22
+    },
+    {
+      "Title": "Avatar: The Way of Water",
+      "Year": "2022",
+      "imdbID": "tt1630029",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_SX300.jpg",
+      "id": 23
+    },
+    {
+      "Title": "John Wick",
+      "Year": "2014",
+      "imdbID": "tt2911666",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+      "id": 24
+    },
+    {
+      "Title": "John Wick: Chapter 2",
+      "Year": "2017",
+      "imdbID": "tt4425200",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_SX300.jpg",
+      "id": 25
+    },
+    {
+      "Title": "John Wick: Chapter 3 - Parabellum",
+      "Year": "2019",
+      "imdbID": "tt6146586",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+      "id": 26
+    },
+    {
+      "Title": "Shazam! Fury of the Gods",
+      "Year": "2023",
+      "imdbID": "tt10151854",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzJlM2NmZTItOGQyYS00MmE2LTkwZGUtNDFkNmJmZjRjZjcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_SX300.jpg",
+      "id": 27
+    },
+    {
+      "Title": "Shazam!",
+      "Year": "2019",
+      "imdbID": "tt0448115",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWZhZjE4NGQtODg5Ni00MjQ1LWJmMzAtNzQ2N2M1NzYzMDJkXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SX300.jpg",
+      "id": 28
+    },
+    {
+      "Title": "Puss in Boots: The Last Wish",
+      "Year": "2022",
+      "imdbID": "tt3915174",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_SX300.jpg",
+      "id": 29
+    },
+    {
+      "Title": "Missing",
+      "Year": "2023",
+      "imdbID": "tt10855768",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzYjUwNWUtYTYxOS00MTkzLWJkOTUtOTE4MTE4ODRmNGNhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_SX300.jpg",
+      "id": 30
+    },
+    {
+      "Title": "The Mandalorian",
+      "Year": "2019–",
+      "Rated": "TV-14",
+      "Released": "12 Nov 2019",
+      "Runtime": "40 min",
+      "Genre": "Action, Adventure, Fantasy",
+      "Director": "N/A",
+      "Writer": "Jon Favreau",
+      "Actors": "Pedro Pascal, Carl Weathers, Giancarlo Esposito",
+      "Plot": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 14 Primetime Emmys. 58 wins & 122 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjRlZDIyNDMtZjIwYi00YmJiLTg4NjMtODA2Mjc0YTBlNzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.7",
+      "imdbVotes": "499,624",
+      "imdbID": "tt8111088",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True",
+      "id": 31
+    },
+    {
+      "Title": "The Last of Us",
+      "Year": "2023–",
+      "Rated": "TV-MA",
+      "Released": "15 Jan 2023",
+      "Runtime": "18S min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "Neil Druckmann, Craig Mazin",
+      "Actors": "Pedro Pascal, Bella Ramsey, Anna Torv",
+      "Plot": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+      "Language": "English",
+      "Country": "Canada, United States",
+      "Awards": "1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.1",
+      "imdbVotes": "271,534",
+      "imdbID": "tt3581920",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True",
+      "id": 32
     },
     {
       "Title": "Attack on Titan",
@@ -126,8 +311,3123 @@
       "Type": "series",
       "totalSeasons": "4",
       "Response": "True",
-      "isActive": true,
+      "id": 33
+    },
+    {
+      "Title": "Shadow and Bone",
+      "Year": "2021–",
+      "Rated": "TV-14",
+      "Released": "23 Apr 2021",
+      "Runtime": "N/A",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "Eric Heisserer",
+      "Actors": "Jessie Mei Li, Ben Barnes, Archie Renaux",
+      "Plot": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTY0ZjliOGUtMDFiZS00YzcwLWFiZWYtMzg4MWZkMWIwYzYwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "94,428",
+      "imdbID": "tt2403776",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True",
+      "id": 34
+    },
+    {
+      "Title": "Invisible City",
+      "Year": "2021–",
+      "Rated": "TV-G",
+      "Released": "05 Feb 2021",
+      "Runtime": "60 min",
+      "Genre": "Crime, Drama, Fantasy",
+      "Director": "Júlia Pacheco Jordão, Luis Carone",
+      "Writer": "Antonio Arruda (screenwriter), Rodrigo Batista (screenwriter), Marco Borges (screenwriter), Raphael Draccon (based in a story by), Carolina Munhóz (based in a story by), Ludmila Naves (screenwriter), Ludmila Naves, Regina Negrini (screenwriter), Mirna Nogueira (head writer), Felipe Sant'Angelo (screenwriter), Chloe de Sordi (staff writer)",
+      "Actors": "Marco Pigossi, Alessandra Negrini, Julia Konrad",
+      "Plot": "An underground world is inhabited by mythical creatures evolved from a deep lineage of Brazilian folklore. One detective who finds himself caught in a murder investigation that puts him in the middle of a battle between these two ...",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "3 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDk2ODNiZTUtNTEyYS00YmMzLTk1NzktNzQ4N2RhMTQyMGE4XkEyXkFqcGdeQXVyMTk2NDE3Mzc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "6,031",
+      "imdbID": "tt8878862",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True",
+      "id": 35
+    },
+    {
+      "Title": "Star Wars: Episode VIII - The Last Jedi",
+      "Year": "2017",
+      "imdbID": "tt2527336",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",
+      "id": 36
+    },
+    {
+      "Title": "Star Wars: The Bad Batch",
+      "Year": "2021–",
+      "Rated": "TV-PG",
+      "Released": "04 May 2021",
+      "Runtime": "N/A",
+      "Genre": "Animation, Action, Adventure",
+      "Director": "N/A",
+      "Writer": "Jennifer Corbett, Dave Filoni",
+      "Actors": "Ming-Na Wen, Dee Bradley Baker, Michelle Ang",
+      "Plot": "The 'Bad Batch' of elite and experimental clones make their way through an ever-changing galaxy in the immediate aftermath of the Clone Wars.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGIwM2E2NzEtMjQzZC00M2FmLThhMDktZTRlMGYzZWZlZGYzXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "38,856",
+      "imdbID": "tt12708542",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True",
+      "id": 37
+    },
+    {
+      "Title": "Breaking Bad",
+      "Year": "2008–2013",
+      "Rated": "TV-MA",
+      "Released": "20 Jan 2008",
+      "Runtime": "49 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Vince Gilligan",
+      "Actors": "Bryan Cranston, Aaron Paul, Anna Gunn",
+      "Plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future.",
+      "Language": "English, Spanish",
+      "Country": "United States",
+      "Awards": "Won 16 Primetime Emmys. 155 wins & 247 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2VjOTkwMjgtYWEyMy00MzNmLTllMjktNDI1ZmRhYTAwYTg1XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.5",
+      "imdbVotes": "1,926,970",
+      "imdbID": "tt0903747",
+      "Type": "series",
+      "totalSeasons": "5",
+      "Response": "True",
+      "id": 38
+    }
+  ],
+  "seasons": [
+    {
+      "imdbID": "tt0903747",
+      "season": "1",
+      "episodes": [
+        {
+          "Title": "Pilot",
+          "Released": "2008-01-20",
+          "Episode": "1",
+          "imdbRating": "9.0",
+          "imdbID": "tt0959621"
+        },
+        {
+          "Title": "Cat's in the Bag...",
+          "Released": "2008-01-27",
+          "Episode": "2",
+          "imdbRating": "N/A",
+          "imdbID": "tt1054724"
+        },
+        {
+          "Title": "...And the Bag's in the River",
+          "Released": "2008-02-10",
+          "Episode": "3",
+          "imdbRating": "8.7",
+          "imdbID": "tt1054725"
+        },
+        {
+          "Title": "Cancer Man",
+          "Released": "2008-02-17",
+          "Episode": "4",
+          "imdbRating": "8.2",
+          "imdbID": "tt1054726"
+        },
+        {
+          "Title": "Gray Matter",
+          "Released": "2008-02-24",
+          "Episode": "5",
+          "imdbRating": "8.3",
+          "imdbID": "tt1054727"
+        },
+        {
+          "Title": "Crazy Handful of Nothin'",
+          "Released": "2008-03-02",
+          "Episode": "6",
+          "imdbRating": "9.3",
+          "imdbID": "tt1054728"
+        },
+        {
+          "Title": "A No-Rough-Stuff-Type Deal",
+          "Released": "2008-03-09",
+          "Episode": "7",
+          "imdbRating": "8.8",
+          "imdbID": "tt1054729"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "imdbID": "tt0903747",
+      "season": "2",
+      "episodes": [
+        {
+          "Title": "Seven Thirty-Seven",
+          "Released": "2009-03-08",
+          "Episode": "1",
+          "imdbRating": "8.6",
+          "imdbID": "tt1232244"
+        },
+        {
+          "Title": "Grilled",
+          "Released": "2009-03-15",
+          "Episode": "2",
+          "imdbRating": "9.3",
+          "imdbID": "tt1232249"
+        },
+        {
+          "Title": "Bit by a Dead Bee",
+          "Released": "2009-03-22",
+          "Episode": "3",
+          "imdbRating": "8.3",
+          "imdbID": "tt1232250"
+        },
+        {
+          "Title": "Down",
+          "Released": "2009-03-29",
+          "Episode": "4",
+          "imdbRating": "8.2",
+          "imdbID": "tt1232251"
+        },
+        {
+          "Title": "Breakage",
+          "Released": "2009-04-05",
+          "Episode": "5",
+          "imdbRating": "8.3",
+          "imdbID": "tt1232252"
+        },
+        {
+          "Title": "Peekaboo",
+          "Released": "2009-04-12",
+          "Episode": "6",
+          "imdbRating": "8.8",
+          "imdbID": "tt1232253"
+        },
+        {
+          "Title": "Negro y Azul",
+          "Released": "2009-04-19",
+          "Episode": "7",
+          "imdbRating": "8.6",
+          "imdbID": "tt1232254"
+        },
+        {
+          "Title": "Better Call Saul",
+          "Released": "2009-04-26",
+          "Episode": "8",
+          "imdbRating": "9.2",
+          "imdbID": "tt1232255"
+        },
+        {
+          "Title": "4 Days Out",
+          "Released": "2009-05-03",
+          "Episode": "9",
+          "imdbRating": "9.1",
+          "imdbID": "tt1232256"
+        },
+        {
+          "Title": "Over",
+          "Released": "2009-05-10",
+          "Episode": "10",
+          "imdbRating": "8.5",
+          "imdbID": "tt1232245"
+        },
+        {
+          "Title": "Mandala",
+          "Released": "2009-05-17",
+          "Episode": "11",
+          "imdbRating": "8.9",
+          "imdbID": "tt1232246"
+        },
+        {
+          "Title": "Phoenix",
+          "Released": "2009-05-24",
+          "Episode": "12",
+          "imdbRating": "N/A",
+          "imdbID": "tt1232247"
+        },
+        {
+          "Title": "ABQ",
+          "Released": "2009-05-31",
+          "Episode": "13",
+          "imdbRating": "9.2",
+          "imdbID": "tt1232248"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "imdbID": "tt0903747",
+      "season": "3",
+      "episodes": [
+        {
+          "Title": "No Más",
+          "Released": "2010-03-21",
+          "Episode": "1",
+          "imdbRating": "N/A",
+          "imdbID": "tt1528116"
+        },
+        {
+          "Title": "Caballo sin Nombre",
+          "Released": "2010-03-28",
+          "Episode": "2",
+          "imdbRating": "8.6",
+          "imdbID": "tt1615186"
+        },
+        {
+          "Title": "I.F.T.",
+          "Released": "2010-04-04",
+          "Episode": "3",
+          "imdbRating": "8.4",
+          "imdbID": "tt1615187"
+        },
+        {
+          "Title": "Green Light",
+          "Released": "2010-04-11",
+          "Episode": "4",
+          "imdbRating": "8.2",
+          "imdbID": "tt1615554"
+        },
+        {
+          "Title": "Más",
+          "Released": "2010-04-18",
+          "Episode": "5",
+          "imdbRating": "8.5",
+          "imdbID": "tt1615555"
+        },
+        {
+          "Title": "Sunset",
+          "Released": "2010-04-25",
+          "Episode": "6",
+          "imdbRating": "9.3",
+          "imdbID": "tt1615556"
+        },
+        {
+          "Title": "One Minute",
+          "Released": "2010-05-02",
+          "Episode": "7",
+          "imdbRating": "9.6",
+          "imdbID": "tt1615944"
+        },
+        {
+          "Title": "I See You",
+          "Released": "2010-05-09",
+          "Episode": "8",
+          "imdbRating": "8.7",
+          "imdbID": "tt1615557"
+        },
+        {
+          "Title": "Kafkaesque",
+          "Released": "2010-05-16",
+          "Episode": "9",
+          "imdbRating": "8.4",
+          "imdbID": "tt1615558"
+        },
+        {
+          "Title": "Fly",
+          "Released": "2010-05-23",
+          "Episode": "10",
+          "imdbRating": "7.8",
+          "imdbID": "tt1615550"
+        },
+        {
+          "Title": "Abiquiu",
+          "Released": "2010-05-30",
+          "Episode": "11",
+          "imdbRating": "8.4",
+          "imdbID": "tt1615551"
+        },
+        {
+          "Title": "Half Measures",
+          "Released": "2010-06-06",
+          "Episode": "12",
+          "imdbRating": "9.5",
+          "imdbID": "tt1615552"
+        },
+        {
+          "Title": "Full Measure",
+          "Released": "2010-06-13",
+          "Episode": "13",
+          "imdbRating": "9.6",
+          "imdbID": "tt1615553"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "imdbID": "tt0903747",
+      "season": "4",
+      "episodes": [
+        {
+          "Title": "Box Cutter",
+          "Released": "2011-07-17",
+          "Episode": "1",
+          "imdbRating": "9.2",
+          "imdbID": "tt1683084"
+        },
+        {
+          "Title": "Thirty-Eight Snub",
+          "Released": "2011-07-24",
+          "Episode": "2",
+          "imdbRating": "8.2",
+          "imdbID": "tt1683089"
+        },
+        {
+          "Title": "Open House",
+          "Released": "2011-07-31",
+          "Episode": "3",
+          "imdbRating": "8.0",
+          "imdbID": "tt1683090"
+        },
+        {
+          "Title": "Bullet Points",
+          "Released": "2011-08-07",
+          "Episode": "4",
+          "imdbRating": "8.6",
+          "imdbID": "tt1683091"
+        },
+        {
+          "Title": "Shotgun",
+          "Released": "2011-08-14",
+          "Episode": "5",
+          "imdbRating": "8.6",
+          "imdbID": "tt1683092"
+        },
+        {
+          "Title": "Problem Dog",
+          "Released": "2011-08-28",
+          "Episode": "7",
+          "imdbRating": "N/A",
+          "imdbID": "tt1683094"
+        },
+        {
+          "Title": "Hermanos",
+          "Released": "2011-09-04",
+          "Episode": "8",
+          "imdbRating": "N/A",
+          "imdbID": "tt1683095"
+        },
+        {
+          "Title": "Bug",
+          "Released": "2011-09-11",
+          "Episode": "9",
+          "imdbRating": "8.8",
+          "imdbID": "tt1683096"
+        },
+        {
+          "Title": "Salud",
+          "Released": "2011-09-18",
+          "Episode": "10",
+          "imdbRating": "N/A",
+          "imdbID": "tt1683085"
+        },
+        {
+          "Title": "Crawl Space",
+          "Released": "2011-09-25",
+          "Episode": "11",
+          "imdbRating": "9.7",
+          "imdbID": "tt1683086"
+        },
+        {
+          "Title": "End Times",
+          "Released": "2011-10-02",
+          "Episode": "12",
+          "imdbRating": "9.5",
+          "imdbID": "tt1683087"
+        },
+        {
+          "Title": "Face Off",
+          "Released": "2011-10-09",
+          "Episode": "13",
+          "imdbRating": "N/A",
+          "imdbID": "tt1683088"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "imdbID": "tt0903747",
+      "season": "5",
+      "episodes": [
+        {
+          "Title": "Live Free or Die",
+          "Released": "2012-07-15",
+          "Episode": "1",
+          "imdbRating": "9.2",
+          "imdbID": "tt2081647"
+        },
+        {
+          "Title": "Madrigal",
+          "Released": "2012-07-22",
+          "Episode": "2",
+          "imdbRating": "8.8",
+          "imdbID": "tt2301457"
+        },
+        {
+          "Title": "Hazard Pay",
+          "Released": "2012-07-29",
+          "Episode": "3",
+          "imdbRating": "8.8",
+          "imdbID": "tt2301459"
+        },
+        {
+          "Title": "Fifty-One",
+          "Released": "2012-08-05",
+          "Episode": "4",
+          "imdbRating": "8.8",
+          "imdbID": "tt2301461"
+        },
+        {
+          "Title": "Dead Freight",
+          "Released": "2012-08-12",
+          "Episode": "5",
+          "imdbRating": "9.7",
+          "imdbID": "tt2301463"
+        },
+        {
+          "Title": "Buyout",
+          "Released": "2012-08-19",
+          "Episode": "6",
+          "imdbRating": "9.0",
+          "imdbID": "tt2301465"
+        },
+        {
+          "Title": "Say My Name",
+          "Released": "2012-08-26",
+          "Episode": "7",
+          "imdbRating": "9.5",
+          "imdbID": "tt2301467"
+        },
+        {
+          "Title": "Gliding Over All",
+          "Released": "2012-09-02",
+          "Episode": "8",
+          "imdbRating": "9.6",
+          "imdbID": "tt2301469"
+        },
+        {
+          "Title": "Blood Money",
+          "Released": "2013-08-11",
+          "Episode": "9",
+          "imdbRating": "9.4",
+          "imdbID": "tt2301471"
+        },
+        {
+          "Title": "Buried",
+          "Released": "2013-08-18",
+          "Episode": "10",
+          "imdbRating": "9.2",
+          "imdbID": "tt2301443"
+        },
+        {
+          "Title": "Confessions",
+          "Released": "2013-08-25",
+          "Episode": "11",
+          "imdbRating": "9.6",
+          "imdbID": "tt2301445"
+        },
+        {
+          "Title": "Rabid Dog",
+          "Released": "2013-09-01",
+          "Episode": "12",
+          "imdbRating": "9.1",
+          "imdbID": "tt2301447"
+        },
+        {
+          "Title": "To'hajiilee",
+          "Released": "2013-09-08",
+          "Episode": "13",
+          "imdbRating": "9.8",
+          "imdbID": "tt2301449"
+        },
+        {
+          "Title": "Ozymandias",
+          "Released": "2013-09-15",
+          "Episode": "14",
+          "imdbRating": "10.0",
+          "imdbID": "tt2301451"
+        },
+        {
+          "Title": "Granite State",
+          "Released": "2013-09-22",
+          "Episode": "15",
+          "imdbRating": "9.7",
+          "imdbID": "tt2301453"
+        },
+        {
+          "Title": "Felina",
+          "Released": "2013-09-29",
+          "Episode": "16",
+          "imdbRating": "9.9",
+          "imdbID": "tt2301455"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "imdbID": "tt0455275",
+      "season": "1",
+      "episodes": [
+        {
+          "Title": "Pilot",
+          "Released": "2005-08-29",
+          "Episode": "1",
+          "imdbRating": "8.7",
+          "imdbID": "tt0678483"
+        },
+        {
+          "Title": "Allen",
+          "Released": "2005-08-29",
+          "Episode": "2",
+          "imdbRating": "N/A",
+          "imdbID": "tt0678475"
+        },
+        {
+          "Title": "Cell Test",
+          "Released": "2005-09-05",
+          "Episode": "3",
+          "imdbRating": "N/A",
+          "imdbID": "tt0678477"
+        },
+        {
+          "Title": "Cute Poison",
+          "Released": "2005-09-12",
+          "Episode": "4",
+          "imdbRating": "8.6",
+          "imdbID": "tt0678478"
+        },
+        {
+          "Title": "English, Fitz or Percy",
+          "Released": "2005-09-19",
+          "Episode": "5",
+          "imdbRating": "N/A",
+          "imdbID": "tt0678480"
+        },
+        {
+          "Title": "Riots, Drills and the Devil: Part 1",
+          "Released": "2005-09-26",
+          "Episode": "6",
+          "imdbRating": "9.2",
+          "imdbID": "tt0678484"
+        },
+        {
+          "Title": "Riots, Drills and the Devil: Part 2",
+          "Released": "2005-10-03",
+          "Episode": "7",
+          "imdbRating": "N/A",
+          "imdbID": "tt0678482"
+        },
+        {
+          "Title": "The Old Head",
+          "Released": "2005-10-24",
+          "Episode": "8",
+          "imdbRating": "8.6",
+          "imdbID": "tt0678486"
+        },
+        {
+          "Title": "Tweener",
+          "Released": "2005-10-31",
+          "Episode": "9",
+          "imdbRating": "8.4",
+          "imdbID": "tt0678487"
+        },
+        {
+          "Title": "Sleight of Hand",
+          "Released": "2005-11-07",
+          "Episode": "10",
+          "imdbRating": "8.5",
+          "imdbID": "tt0678485"
+        },
+        {
+          "Title": "And Then There Were 7",
+          "Released": "2005-11-14",
+          "Episode": "11",
+          "imdbRating": "8.5",
+          "imdbID": "tt0678476"
+        },
+        {
+          "Title": "Odd Man Out",
+          "Released": "2005-11-21",
+          "Episode": "12",
+          "imdbRating": "8.7",
+          "imdbID": "tt0678481"
+        },
+        {
+          "Title": "End of the Tunnel",
+          "Released": "2005-11-28",
+          "Episode": "13",
+          "imdbRating": "N/A",
+          "imdbID": "tt0678479"
+        },
+        {
+          "Title": "The Rat",
+          "Released": "2006-03-20",
+          "Episode": "14",
+          "imdbRating": "8.9",
+          "imdbID": "tt0761211"
+        },
+        {
+          "Title": "By the Skin and the Teeth",
+          "Released": "2006-03-27",
+          "Episode": "15",
+          "imdbRating": "8.4",
+          "imdbID": "tt0761209"
+        },
+        {
+          "Title": "Brother's Keeper",
+          "Released": "2006-04-03",
+          "Episode": "16",
+          "imdbRating": "8.5",
+          "imdbID": "tt0761208"
+        },
+        {
+          "Title": "J-Cat",
+          "Released": "2006-04-10",
+          "Episode": "17",
+          "imdbRating": "8.5",
+          "imdbID": "tt0782518"
+        },
+        {
+          "Title": "Bluff",
+          "Released": "2006-04-17",
+          "Episode": "18",
+          "imdbRating": "N/A",
+          "imdbID": "tt0789620"
+        },
+        {
+          "Title": "The Key",
+          "Released": "2006-04-24",
+          "Episode": "19",
+          "imdbRating": "N/A",
+          "imdbID": "tt0761210"
+        },
+        {
+          "Title": "Tonight",
+          "Released": "2006-05-01",
+          "Episode": "20",
+          "imdbRating": "9.1",
+          "imdbID": "tt0761212"
+        },
+        {
+          "Title": "Go",
+          "Released": "2006-05-08",
+          "Episode": "21",
+          "imdbRating": "9.5",
+          "imdbID": "tt0769383"
+        },
+        {
+          "Title": "Flight",
+          "Released": "2006-05-15",
+          "Episode": "22",
+          "imdbRating": "9.3",
+          "imdbID": "tt0799332"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "imdbID": "tt0455275",
+      "season": "2",
+      "episodes": [
+        {
+          "Title": "Manhunt",
+          "Released": "2006-08-21",
+          "Episode": "1",
+          "imdbRating": "8.8",
+          "imdbID": "tt0839360"
+        },
+        {
+          "Title": "Otis",
+          "Released": "2006-08-28",
+          "Episode": "2",
+          "imdbRating": "8.3",
+          "imdbID": "tt0843217"
+        },
+        {
+          "Title": "Scan",
+          "Released": "2006-09-04",
+          "Episode": "3",
+          "imdbRating": "8.4",
+          "imdbID": "tt0847410"
+        },
+        {
+          "Title": "First Down",
+          "Released": "2006-09-11",
+          "Episode": "4",
+          "imdbRating": "8.4",
+          "imdbID": "tt0845343"
+        },
+        {
+          "Title": "Map 1213",
+          "Released": "2006-09-18",
+          "Episode": "5",
+          "imdbRating": "8.2",
+          "imdbID": "tt0847409"
+        },
+        {
+          "Title": "Subdivision",
+          "Released": "2006-09-25",
+          "Episode": "6",
+          "imdbRating": "8.3",
+          "imdbID": "tt0865197"
+        },
+        {
+          "Title": "Buried",
+          "Released": "2006-10-02",
+          "Episode": "7",
+          "imdbRating": "8.5",
+          "imdbID": "tt0866270"
+        },
+        {
+          "Title": "Dead Fall",
+          "Released": "2006-10-23",
+          "Episode": "8",
+          "imdbRating": "8.2",
+          "imdbID": "tt0861280"
+        },
+        {
+          "Title": "Unearthed",
+          "Released": "2006-10-30",
+          "Episode": "9",
+          "imdbRating": "8.4",
+          "imdbID": "tt0866271"
+        },
+        {
+          "Title": "Rendezvous",
+          "Released": "2006-11-06",
+          "Episode": "10",
+          "imdbRating": "8.3",
+          "imdbID": "tt0876831"
+        },
+        {
+          "Title": "Bolshoi Booze",
+          "Released": "2006-11-13",
+          "Episode": "11",
+          "imdbRating": "8.4",
+          "imdbID": "tt0882544"
+        },
+        {
+          "Title": "Disconnect",
+          "Released": "2006-11-20",
+          "Episode": "12",
+          "imdbRating": "8.3",
+          "imdbID": "tt0882545"
+        },
+        {
+          "Title": "John Doe",
+          "Released": "2007-01-22",
+          "Episode": "14",
+          "imdbRating": "8.6",
+          "imdbID": "tt0909711"
+        },
+        {
+          "Title": "The Message",
+          "Released": "2007-01-29",
+          "Episode": "15",
+          "imdbRating": "8.4",
+          "imdbID": "tt0922226"
+        },
+        {
+          "Title": "Chicago",
+          "Released": "2007-02-05",
+          "Episode": "16",
+          "imdbRating": "8.4",
+          "imdbID": "tt0921562"
+        },
+        {
+          "Title": "Bad Blood",
+          "Released": "2007-02-19",
+          "Episode": "17",
+          "imdbRating": "8.5",
+          "imdbID": "tt0934263"
+        },
+        {
+          "Title": "Wash",
+          "Released": "2007-02-26",
+          "Episode": "18",
+          "imdbRating": "8.6",
+          "imdbID": "tt0959184"
+        },
+        {
+          "Title": "Sweet Caroline",
+          "Released": "2007-03-05",
+          "Episode": "19",
+          "imdbRating": "8.8",
+          "imdbID": "tt0928317"
+        },
+        {
+          "Title": "Panama",
+          "Released": "2007-03-19",
+          "Episode": "20",
+          "imdbRating": "8.2",
+          "imdbID": "tt0963626"
+        },
+        {
+          "Title": "Fin del camino",
+          "Released": "2007-03-26",
+          "Episode": "21",
+          "imdbRating": "8.6",
+          "imdbID": "tt0972484"
+        },
+        {
+          "Title": "Sona",
+          "Released": "2007-04-02",
+          "Episode": "22",
+          "imdbRating": "8.6",
+          "imdbID": "tt0974324"
+        }
+      ],
       "id": 7
+    },
+    {
+      "imdbID": "tt0455275",
+      "season": "3",
+      "episodes": [
+        {
+          "Title": "Orientación",
+          "Released": "2007-09-17",
+          "Episode": "1",
+          "imdbRating": "8.5",
+          "imdbID": "tt0994491"
+        },
+        {
+          "Title": "Fire/Water",
+          "Released": "2007-09-24",
+          "Episode": "2",
+          "imdbRating": "8.0",
+          "imdbID": "tt0994502"
+        },
+        {
+          "Title": "Call Waiting",
+          "Released": "2007-10-01",
+          "Episode": "3",
+          "imdbRating": "8.0",
+          "imdbID": "tt0994506"
+        },
+        {
+          "Title": "Good Fences",
+          "Released": "2007-10-08",
+          "Episode": "4",
+          "imdbRating": "8.0",
+          "imdbID": "tt0994507"
+        },
+        {
+          "Title": "Interference",
+          "Released": "2007-10-22",
+          "Episode": "5",
+          "imdbRating": "7.9",
+          "imdbID": "tt0994508"
+        },
+        {
+          "Title": "Photo Finish",
+          "Released": "2007-11-05",
+          "Episode": "6",
+          "imdbRating": "8.2",
+          "imdbID": "tt0994509"
+        },
+        {
+          "Title": "Vamonos",
+          "Released": "2007-11-05",
+          "Episode": "7",
+          "imdbRating": "8.2",
+          "imdbID": "tt0994510"
+        },
+        {
+          "Title": "Bang and Burn",
+          "Released": "2007-11-12",
+          "Episode": "8",
+          "imdbRating": "8.3",
+          "imdbID": "tt0994511"
+        },
+        {
+          "Title": "Boxed In",
+          "Released": "2008-01-14",
+          "Episode": "9",
+          "imdbRating": "7.9",
+          "imdbID": "tt0994512"
+        },
+        {
+          "Title": "Dirt Nap",
+          "Released": "2008-01-21",
+          "Episode": "10",
+          "imdbRating": "8.2",
+          "imdbID": "tt0994492"
+        },
+        {
+          "Title": "Under & Out",
+          "Released": "2008-02-04",
+          "Episode": "11",
+          "imdbRating": "8.3",
+          "imdbID": "tt0994493"
+        },
+        {
+          "Title": "Hell or High Water",
+          "Released": "2008-02-11",
+          "Episode": "12",
+          "imdbRating": "8.7",
+          "imdbID": "tt0994494"
+        },
+        {
+          "Title": "The Art of the Deal",
+          "Released": "2008-02-18",
+          "Episode": "13",
+          "imdbRating": "N/A",
+          "imdbID": "tt0994495"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "imdbID": "tt0455275",
+      "season": "4",
+      "episodes": [
+        {
+          "Title": "Scylla",
+          "Released": "2008-09-01",
+          "Episode": "1",
+          "imdbRating": "7.9",
+          "imdbID": "tt0994496"
+        },
+        {
+          "Title": "Breaking and Entering",
+          "Released": "2008-09-01",
+          "Episode": "2",
+          "imdbRating": "7.6",
+          "imdbID": "tt6826536"
+        },
+        {
+          "Title": "Shut Down",
+          "Released": "2008-09-08",
+          "Episode": "3",
+          "imdbRating": "N/A",
+          "imdbID": "tt0994498"
+        },
+        {
+          "Title": "Eagles and Angels",
+          "Released": "2008-09-15",
+          "Episode": "4",
+          "imdbRating": "N/A",
+          "imdbID": "tt0994499"
+        },
+        {
+          "Title": "Safe and Sound",
+          "Released": "2008-09-22",
+          "Episode": "5",
+          "imdbRating": "8.0",
+          "imdbID": "tt0994500"
+        },
+        {
+          "Title": "Blow Out",
+          "Released": "2008-09-29",
+          "Episode": "6",
+          "imdbRating": "N/A",
+          "imdbID": "tt0994501"
+        },
+        {
+          "Title": "Five the Hard Way",
+          "Released": "2008-10-06",
+          "Episode": "7",
+          "imdbRating": "8.0",
+          "imdbID": "tt0994503"
+        },
+        {
+          "Title": "The Price",
+          "Released": "2008-10-20",
+          "Episode": "8",
+          "imdbRating": "N/A",
+          "imdbID": "tt0994504"
+        },
+        {
+          "Title": "Greatness Achieved",
+          "Released": "2008-11-03",
+          "Episode": "9",
+          "imdbRating": "8.7",
+          "imdbID": "tt0994505"
+        },
+        {
+          "Title": "The Legend",
+          "Released": "2008-11-10",
+          "Episode": "10",
+          "imdbRating": "N/A",
+          "imdbID": "tt1224477"
+        },
+        {
+          "Title": "Quiet Riot",
+          "Released": "2008-11-17",
+          "Episode": "11",
+          "imdbRating": "8.4",
+          "imdbID": "tt1224478"
+        },
+        {
+          "Title": "Selfless",
+          "Released": "2008-11-24",
+          "Episode": "12",
+          "imdbRating": "8.9",
+          "imdbID": "tt1224483"
+        },
+        {
+          "Title": "Deal or No Deal",
+          "Released": "2008-12-01",
+          "Episode": "13",
+          "imdbRating": "8.1",
+          "imdbID": "tt1224482"
+        },
+        {
+          "Title": "Just Business",
+          "Released": "2008-12-08",
+          "Episode": "14",
+          "imdbRating": "8.0",
+          "imdbID": "tt1224481"
+        },
+        {
+          "Title": "Going Under",
+          "Released": "2008-12-15",
+          "Episode": "15",
+          "imdbRating": "7.8",
+          "imdbID": "tt1224479"
+        },
+        {
+          "Title": "The Sunshine State",
+          "Released": "2008-12-22",
+          "Episode": "16",
+          "imdbRating": "7.6",
+          "imdbID": "tt1224480"
+        },
+        {
+          "Title": "The Mother Lode",
+          "Released": "2009-04-17",
+          "Episode": "17",
+          "imdbRating": "7.5",
+          "imdbID": "tt1349175"
+        },
+        {
+          "Title": "VS.",
+          "Released": "2009-04-24",
+          "Episode": "18",
+          "imdbRating": "N/A",
+          "imdbID": "tt1349174"
+        },
+        {
+          "Title": "Cowboys and Indians",
+          "Released": "2009-05-08",
+          "Episode": "20",
+          "imdbRating": "8.0",
+          "imdbID": "tt1368328"
+        },
+        {
+          "Title": "Rate of Exchange",
+          "Released": "2009-05-15",
+          "Episode": "21",
+          "imdbRating": "8.2",
+          "imdbID": "tt1395529"
+        },
+        {
+          "Title": "Killing Your Number",
+          "Released": "2009-05-15",
+          "Episode": "22",
+          "imdbRating": "8.9",
+          "imdbID": "tt1394850"
+        },
+        {
+          "Title": "The Old Ball and Chain",
+          "Released": "2009-05-24",
+          "Episode": "23",
+          "imdbRating": "N/A",
+          "imdbID": "tt1478107"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "imdbID": "tt0455275",
+      "season": "5",
+      "episodes": [
+        {
+          "Title": "Ogygia",
+          "Released": "2017-04-04",
+          "Episode": "1",
+          "imdbRating": "8.4",
+          "imdbID": "tt5537374"
+        },
+        {
+          "Title": "Kaniel Outis",
+          "Released": "2017-04-11",
+          "Episode": "2",
+          "imdbRating": "8.2",
+          "imdbID": "tt5562080"
+        },
+        {
+          "Title": "The Liar",
+          "Released": "2017-04-18",
+          "Episode": "3",
+          "imdbRating": "N/A",
+          "imdbID": "tt5562088"
+        },
+        {
+          "Title": "The Prisoner's Dilemma",
+          "Released": "2017-04-25",
+          "Episode": "4",
+          "imdbRating": "8.6",
+          "imdbID": "tt5564478"
+        },
+        {
+          "Title": "Contingency",
+          "Released": "2017-05-02",
+          "Episode": "5",
+          "imdbRating": "7.7",
+          "imdbID": "tt5577002"
+        },
+        {
+          "Title": "Phaecia",
+          "Released": "2017-05-09",
+          "Episode": "6",
+          "imdbRating": "7.5",
+          "imdbID": "tt5577008"
+        },
+        {
+          "Title": "Wine Dark Sea",
+          "Released": "2017-05-16",
+          "Episode": "7",
+          "imdbRating": "7.9",
+          "imdbID": "tt5577018"
+        },
+        {
+          "Title": "Progeny",
+          "Released": "2017-05-23",
+          "Episode": "8",
+          "imdbRating": "8.6",
+          "imdbID": "tt5577024"
+        },
+        {
+          "Title": "Behind the Eyes",
+          "Released": "2017-05-30",
+          "Episode": "9",
+          "imdbRating": "8.4",
+          "imdbID": "tt5538198"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "imdbID": "tt0944947",
+      "season": "1",
+      "episodes": [
+        {
+          "Title": "Winter Is Coming",
+          "Released": "2011-04-17",
+          "Episode": "1",
+          "imdbRating": "8.9",
+          "imdbID": "tt1480055"
+        },
+        {
+          "Title": "The Kingsroad",
+          "Released": "2011-04-24",
+          "Episode": "2",
+          "imdbRating": "8.6",
+          "imdbID": "tt1668746"
+        },
+        {
+          "Title": "Lord Snow",
+          "Released": "2011-05-01",
+          "Episode": "3",
+          "imdbRating": "8.5",
+          "imdbID": "tt1829962"
+        },
+        {
+          "Title": "Cripples, Bastards, and Broken Things",
+          "Released": "2011-05-08",
+          "Episode": "4",
+          "imdbRating": "8.6",
+          "imdbID": "tt1829963"
+        },
+        {
+          "Title": "The Wolf and the Lion",
+          "Released": "2011-05-15",
+          "Episode": "5",
+          "imdbRating": "9.0",
+          "imdbID": "tt1829964"
+        },
+        {
+          "Title": "A Golden Crown",
+          "Released": "2011-05-22",
+          "Episode": "6",
+          "imdbRating": "9.1",
+          "imdbID": "tt1837862"
+        },
+        {
+          "Title": "You Win or You Die",
+          "Released": "2011-05-29",
+          "Episode": "7",
+          "imdbRating": "9.1",
+          "imdbID": "tt1837863"
+        },
+        {
+          "Title": "The Pointy End",
+          "Released": "2011-06-05",
+          "Episode": "8",
+          "imdbRating": "8.9",
+          "imdbID": "tt1837864"
+        },
+        {
+          "Title": "Baelor",
+          "Released": "2011-06-12",
+          "Episode": "9",
+          "imdbRating": "9.6",
+          "imdbID": "tt1851398"
+        },
+        {
+          "Title": "Fire and Blood",
+          "Released": "2011-06-19",
+          "Episode": "10",
+          "imdbRating": "9.4",
+          "imdbID": "tt1851397"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "imdbID": "tt0944947",
+      "season": "2",
+      "episodes": [
+        {
+          "Title": "The North Remembers",
+          "Released": "2012-04-01",
+          "Episode": "1",
+          "imdbRating": "8.6",
+          "imdbID": "tt1971833"
+        },
+        {
+          "Title": "The Night Lands",
+          "Released": "2012-04-08",
+          "Episode": "2",
+          "imdbRating": "8.4",
+          "imdbID": "tt2069318"
+        },
+        {
+          "Title": "What Is Dead May Never Die",
+          "Released": "2012-04-15",
+          "Episode": "3",
+          "imdbRating": "8.7",
+          "imdbID": "tt2070135"
+        },
+        {
+          "Title": "Garden of Bones",
+          "Released": "2012-04-22",
+          "Episode": "4",
+          "imdbRating": "8.6",
+          "imdbID": "tt2069319"
+        },
+        {
+          "Title": "The Ghost of Harrenhal",
+          "Released": "2012-04-29",
+          "Episode": "5",
+          "imdbRating": "8.6",
+          "imdbID": "tt2074658"
+        },
+        {
+          "Title": "The Old Gods and the New",
+          "Released": "2012-05-06",
+          "Episode": "6",
+          "imdbRating": "8.9",
+          "imdbID": "tt2085238"
+        },
+        {
+          "Title": "A Man Without Honor",
+          "Released": "2012-05-13",
+          "Episode": "7",
+          "imdbRating": "8.8",
+          "imdbID": "tt2085239"
+        },
+        {
+          "Title": "The Prince of Winterfell",
+          "Released": "2012-05-20",
+          "Episode": "8",
+          "imdbRating": "8.6",
+          "imdbID": "tt2085240"
+        },
+        {
+          "Title": "Blackwater",
+          "Released": "2012-05-27",
+          "Episode": "9",
+          "imdbRating": "9.6",
+          "imdbID": "tt2084342"
+        },
+        {
+          "Title": "Valar Morghulis",
+          "Released": "2012-06-03",
+          "Episode": "10",
+          "imdbRating": "9.3",
+          "imdbID": "tt2112510"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "imdbID": "tt0944947",
+      "season": "3",
+      "episodes": [
+        {
+          "Title": "Valar Dohaeris",
+          "Released": "2013-03-31",
+          "Episode": "1",
+          "imdbRating": "8.6",
+          "imdbID": "tt2178782"
+        },
+        {
+          "Title": "Dark Wings, Dark Words",
+          "Released": "2013-04-07",
+          "Episode": "2",
+          "imdbRating": "8.5",
+          "imdbID": "tt2178772"
+        },
+        {
+          "Title": "Walk of Punishment",
+          "Released": "2013-04-14",
+          "Episode": "3",
+          "imdbRating": "8.7",
+          "imdbID": "tt2178802"
+        },
+        {
+          "Title": "And Now His Watch Is Ended",
+          "Released": "2013-04-21",
+          "Episode": "4",
+          "imdbRating": "9.5",
+          "imdbID": "tt2178798"
+        },
+        {
+          "Title": "Kissed by Fire",
+          "Released": "2013-04-28",
+          "Episode": "5",
+          "imdbRating": "8.9",
+          "imdbID": "tt2178788"
+        },
+        {
+          "Title": "The Climb",
+          "Released": "2013-05-05",
+          "Episode": "6",
+          "imdbRating": "8.7",
+          "imdbID": "tt2178812"
+        },
+        {
+          "Title": "The Bear and the Maiden Fair",
+          "Released": "2013-05-12",
+          "Episode": "7",
+          "imdbRating": "8.6",
+          "imdbID": "tt2178814"
+        },
+        {
+          "Title": "Second Sons",
+          "Released": "2013-05-19",
+          "Episode": "8",
+          "imdbRating": "8.9",
+          "imdbID": "tt2178806"
+        },
+        {
+          "Title": "The Rains of Castamere",
+          "Released": "2013-06-02",
+          "Episode": "9",
+          "imdbRating": "9.9",
+          "imdbID": "tt2178784"
+        },
+        {
+          "Title": "Mhysa",
+          "Released": "2013-06-09",
+          "Episode": "10",
+          "imdbRating": "N/A",
+          "imdbID": "tt2178796"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "imdbID": "tt0944947",
+      "season": "4",
+      "episodes": [
+        {
+          "Title": "Two Swords",
+          "Released": "2014-04-06",
+          "Episode": "1",
+          "imdbRating": "9.0",
+          "imdbID": "tt2816136"
+        },
+        {
+          "Title": "The Lion and the Rose",
+          "Released": "2014-04-13",
+          "Episode": "2",
+          "imdbRating": "9.7",
+          "imdbID": "tt2832378"
+        },
+        {
+          "Title": "Breaker of Chains",
+          "Released": "2014-04-20",
+          "Episode": "3",
+          "imdbRating": "8.7",
+          "imdbID": "tt2972426"
+        },
+        {
+          "Title": "Oathkeeper",
+          "Released": "2014-04-27",
+          "Episode": "4",
+          "imdbRating": "8.7",
+          "imdbID": "tt2972428"
+        },
+        {
+          "Title": "First of His Name",
+          "Released": "2014-05-04",
+          "Episode": "5",
+          "imdbRating": "8.6",
+          "imdbID": "tt3060856"
+        },
+        {
+          "Title": "The Laws of Gods and Men",
+          "Released": "2014-05-11",
+          "Episode": "6",
+          "imdbRating": "9.7",
+          "imdbID": "tt3060910"
+        },
+        {
+          "Title": "Mockingbird",
+          "Released": "2014-05-18",
+          "Episode": "7",
+          "imdbRating": "9.0",
+          "imdbID": "tt3060876"
+        },
+        {
+          "Title": "The Mountain and the Viper",
+          "Released": "2014-06-01",
+          "Episode": "8",
+          "imdbRating": "9.7",
+          "imdbID": "tt3060782"
+        },
+        {
+          "Title": "The Watchers on the Wall",
+          "Released": "2014-06-08",
+          "Episode": "9",
+          "imdbRating": "9.6",
+          "imdbID": "tt3060858"
+        },
+        {
+          "Title": "The Children",
+          "Released": "2014-06-15",
+          "Episode": "10",
+          "imdbRating": "9.6",
+          "imdbID": "tt3060860"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "imdbID": "tt0944947",
+      "season": "5",
+      "episodes": [
+        {
+          "Title": "The Wars to Come",
+          "Released": "2015-04-12",
+          "Episode": "1",
+          "imdbRating": "8.3",
+          "imdbID": "tt3658012"
+        },
+        {
+          "Title": "The House of Black and White",
+          "Released": "2015-04-19",
+          "Episode": "2",
+          "imdbRating": "8.3",
+          "imdbID": "tt3846626"
+        },
+        {
+          "Title": "High Sparrow",
+          "Released": "2015-04-26",
+          "Episode": "3",
+          "imdbRating": "8.4",
+          "imdbID": "tt3866836"
+        },
+        {
+          "Title": "Sons of the Harpy",
+          "Released": "2015-05-03",
+          "Episode": "4",
+          "imdbRating": "8.5",
+          "imdbID": "tt3866838"
+        },
+        {
+          "Title": "Kill the Boy",
+          "Released": "2015-05-10",
+          "Episode": "5",
+          "imdbRating": "8.5",
+          "imdbID": "tt3866840"
+        },
+        {
+          "Title": "Unbowed, Unbent, Unbroken",
+          "Released": "2015-05-17",
+          "Episode": "6",
+          "imdbRating": "N/A",
+          "imdbID": "tt3866842"
+        },
+        {
+          "Title": "The Gift",
+          "Released": "2015-05-24",
+          "Episode": "7",
+          "imdbRating": "8.8",
+          "imdbID": "tt3866846"
+        },
+        {
+          "Title": "Hardhome",
+          "Released": "2015-05-31",
+          "Episode": "8",
+          "imdbRating": "9.8",
+          "imdbID": "tt3866850"
+        },
+        {
+          "Title": "The Dance of Dragons",
+          "Released": "2015-06-07",
+          "Episode": "9",
+          "imdbRating": "9.4",
+          "imdbID": "tt3866826"
+        },
+        {
+          "Title": "Mother's Mercy",
+          "Released": "2015-06-14",
+          "Episode": "10",
+          "imdbRating": "9.1",
+          "imdbID": "tt3866862"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "imdbID": "tt0944947",
+      "season": "6",
+      "episodes": [
+        {
+          "Title": "The Red Woman",
+          "Released": "2016-04-24",
+          "Episode": "1",
+          "imdbRating": "8.4",
+          "imdbID": "tt3658014"
+        },
+        {
+          "Title": "Home",
+          "Released": "2016-05-01",
+          "Episode": "2",
+          "imdbRating": "9.3",
+          "imdbID": "tt4077554"
+        },
+        {
+          "Title": "Oathbreaker",
+          "Released": "2016-05-08",
+          "Episode": "3",
+          "imdbRating": "8.6",
+          "imdbID": "tt4131606"
+        },
+        {
+          "Title": "Book of the Stranger",
+          "Released": "2016-05-15",
+          "Episode": "4",
+          "imdbRating": "9.0",
+          "imdbID": "tt4283016"
+        },
+        {
+          "Title": "The Door",
+          "Released": "2016-05-22",
+          "Episode": "5",
+          "imdbRating": "9.7",
+          "imdbID": "tt4283028"
+        },
+        {
+          "Title": "Blood of My Blood",
+          "Released": "2016-05-29",
+          "Episode": "6",
+          "imdbRating": "8.3",
+          "imdbID": "tt4283054"
+        },
+        {
+          "Title": "The Broken Man",
+          "Released": "2016-06-05",
+          "Episode": "7",
+          "imdbRating": "8.5",
+          "imdbID": "tt4283060"
+        },
+        {
+          "Title": "No One",
+          "Released": "2016-06-12",
+          "Episode": "8",
+          "imdbRating": "8.3",
+          "imdbID": "tt4283074"
+        },
+        {
+          "Title": "Battle of the Bastards",
+          "Released": "2016-06-19",
+          "Episode": "9",
+          "imdbRating": "9.9",
+          "imdbID": "tt4283088"
+        },
+        {
+          "Title": "The Winds of Winter",
+          "Released": "2016-06-26",
+          "Episode": "10",
+          "imdbRating": "9.9",
+          "imdbID": "tt4283094"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "imdbID": "tt0944947",
+      "season": "7",
+      "episodes": [
+        {
+          "Title": "Dragonstone",
+          "Released": "2017-07-16",
+          "Episode": "1",
+          "imdbRating": "8.5",
+          "imdbID": "tt5654088"
+        },
+        {
+          "Title": "Stormborn",
+          "Released": "2017-07-23",
+          "Episode": "2",
+          "imdbRating": "8.8",
+          "imdbID": "tt5655178"
+        },
+        {
+          "Title": "The Queen's Justice",
+          "Released": "2017-07-30",
+          "Episode": "3",
+          "imdbRating": "9.1",
+          "imdbID": "tt5775840"
+        },
+        {
+          "Title": "The Spoils of War",
+          "Released": "2017-08-06",
+          "Episode": "4",
+          "imdbRating": "9.7",
+          "imdbID": "tt5775846"
+        },
+        {
+          "Title": "Eastwatch",
+          "Released": "2017-08-13",
+          "Episode": "5",
+          "imdbRating": "8.7",
+          "imdbID": "tt5775854"
+        },
+        {
+          "Title": "Beyond the Wall",
+          "Released": "2017-08-20",
+          "Episode": "6",
+          "imdbRating": "9.0",
+          "imdbID": "tt5775864"
+        },
+        {
+          "Title": "The Dragon and the Wolf",
+          "Released": "2017-08-27",
+          "Episode": "7",
+          "imdbRating": "9.4",
+          "imdbID": "tt5775874"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "imdbID": "tt0944947",
+      "season": "8",
+      "episodes": [
+        {
+          "Title": "Winterfell",
+          "Released": "2019-04-14",
+          "Episode": "1",
+          "imdbRating": "7.6",
+          "imdbID": "tt5924366"
+        },
+        {
+          "Title": "A Knight of the Seven Kingdoms",
+          "Released": "2019-04-21",
+          "Episode": "2",
+          "imdbRating": "7.9",
+          "imdbID": "tt6027908"
+        },
+        {
+          "Title": "The Long Night",
+          "Released": "2019-04-28",
+          "Episode": "3",
+          "imdbRating": "7.5",
+          "imdbID": "tt6027912"
+        },
+        {
+          "Title": "The Last of the Starks",
+          "Released": "2019-05-05",
+          "Episode": "4",
+          "imdbRating": "5.5",
+          "imdbID": "tt6027914"
+        },
+        {
+          "Title": "The Bells",
+          "Released": "2019-05-12",
+          "Episode": "5",
+          "imdbRating": "5.9",
+          "imdbID": "tt6027916"
+        },
+        {
+          "Title": "The Iron Throne",
+          "Released": "2019-05-19",
+          "Episode": "6",
+          "imdbRating": "4.0",
+          "imdbID": "tt6027920"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "imdbID": "tt8111088",
+      "season": "1",
+      "episodes": [
+        {
+          "Title": "Chapter 1: The Mandalorian",
+          "Released": "2019-11-12",
+          "Episode": "1",
+          "imdbRating": "8.6",
+          "imdbID": "tt9095424"
+        },
+        {
+          "Title": "Chapter 2: The Child",
+          "Released": "2019-11-15",
+          "Episode": "2",
+          "imdbRating": "8.5",
+          "imdbID": "tt9121530"
+        },
+        {
+          "Title": "Chapter 3: The Sin",
+          "Released": "2019-11-22",
+          "Episode": "3",
+          "imdbRating": "8.9",
+          "imdbID": "tt9121534"
+        },
+        {
+          "Title": "Chapter 4: Sanctuary",
+          "Released": "2019-11-29",
+          "Episode": "4",
+          "imdbRating": "7.7",
+          "imdbID": "tt9121536"
+        },
+        {
+          "Title": "Chapter 5: The Gunslinger",
+          "Released": "2019-12-06",
+          "Episode": "5",
+          "imdbRating": "7.5",
+          "imdbID": "tt9121538"
+        },
+        {
+          "Title": "Chapter 6: The Prisoner",
+          "Released": "2019-12-13",
+          "Episode": "6",
+          "imdbRating": "8.3",
+          "imdbID": "tt9121542"
+        },
+        {
+          "Title": "Chapter 7: The Reckoning",
+          "Released": "2019-12-18",
+          "Episode": "7",
+          "imdbRating": "9.0",
+          "imdbID": "tt9121544"
+        },
+        {
+          "Title": "Chapter 8: Redemption",
+          "Released": "2019-12-27",
+          "Episode": "8",
+          "imdbRating": "9.2",
+          "imdbID": "tt9121546"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "imdbID": "tt8111088",
+      "season": "2",
+      "episodes": [
+        {
+          "Title": "Chapter 9: The Marshal",
+          "Released": "2020-10-30",
+          "Episode": "1",
+          "imdbRating": "N/A",
+          "imdbID": "tt11150494"
+        },
+        {
+          "Title": "Chapter 10: The Passenger",
+          "Released": "2020-11-06",
+          "Episode": "2",
+          "imdbRating": "7.8",
+          "imdbID": "tt12981670"
+        },
+        {
+          "Title": "Chapter 11: The Heiress",
+          "Released": "2020-11-13",
+          "Episode": "3",
+          "imdbRating": "8.7",
+          "imdbID": "tt12981672"
+        },
+        {
+          "Title": "Chapter 12: The Siege",
+          "Released": "2020-11-20",
+          "Episode": "4",
+          "imdbRating": "8.3",
+          "imdbID": "tt12981674"
+        },
+        {
+          "Title": "Chapter 13: The Jedi",
+          "Released": "2020-11-27",
+          "Episode": "5",
+          "imdbRating": "9.3",
+          "imdbID": "tt13052856"
+        },
+        {
+          "Title": "Chapter 14: The Tragedy",
+          "Released": "2020-12-04",
+          "Episode": "6",
+          "imdbRating": "9.1",
+          "imdbID": "tt13052868"
+        },
+        {
+          "Title": "Chapter 15: The Believer",
+          "Released": "2020-12-11",
+          "Episode": "7",
+          "imdbRating": "8.9",
+          "imdbID": "tt13052876"
+        },
+        {
+          "Title": "Chapter 16: The Rescue",
+          "Released": "2020-12-18",
+          "Episode": "8",
+          "imdbRating": "9.8",
+          "imdbID": "tt13052880"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "imdbID": "tt8111088",
+      "season": "3",
+      "episodes": [
+        {
+          "Title": "Chapter 17: The Apostate",
+          "Released": "2023-03-01",
+          "Episode": "1",
+          "imdbRating": "7.9",
+          "imdbID": "tt12187072"
+        },
+        {
+          "Title": "Chapter 18",
+          "Released": "2023-03-08",
+          "Episode": "2",
+          "imdbRating": "N/A",
+          "imdbID": "tt13439668"
+        },
+        {
+          "Title": "Chapter 19",
+          "Released": "2023-03-15",
+          "Episode": "3",
+          "imdbRating": "N/A",
+          "imdbID": "tt13665846"
+        },
+        {
+          "Title": "Chapter 20",
+          "Released": "2023-03-22",
+          "Episode": "4",
+          "imdbRating": "N/A",
+          "imdbID": "tt13669018"
+        },
+        {
+          "Title": "Chapter 21",
+          "Released": "2023-03-29",
+          "Episode": "5",
+          "imdbRating": "N/A",
+          "imdbID": "tt13801574"
+        },
+        {
+          "Title": "Chapter 22",
+          "Released": "2023-04-05",
+          "Episode": "6",
+          "imdbRating": "N/A",
+          "imdbID": "tt13801578"
+        },
+        {
+          "Title": "Chapter 23",
+          "Released": "2023-04-12",
+          "Episode": "7",
+          "imdbRating": "N/A",
+          "imdbID": "tt13820580"
+        },
+        {
+          "Title": "Chapter 24",
+          "Released": "2023-04-19",
+          "Episode": "8",
+          "imdbRating": "N/A",
+          "imdbID": "tt13820582"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "imdbID": "tt3581920",
+      "season": "1",
+      "episodes": [
+        {
+          "Title": "When You're Lost in the Darkness",
+          "Released": "2023-01-15",
+          "Episode": "1",
+          "imdbRating": "9.2",
+          "imdbID": "tt11957006"
+        },
+        {
+          "Title": "Infected",
+          "Released": "2023-01-22",
+          "Episode": "2",
+          "imdbRating": "9.1",
+          "imdbID": "tt14500884"
+        },
+        {
+          "Title": "Long, Long Time",
+          "Released": "2023-01-29",
+          "Episode": "3",
+          "imdbRating": "8.0",
+          "imdbID": "tt14500888"
+        },
+        {
+          "Title": "Please Hold to My Hand",
+          "Released": "2023-02-05",
+          "Episode": "4",
+          "imdbRating": "8.4",
+          "imdbID": "tt14500890"
+        },
+        {
+          "Title": "Endure and Survive",
+          "Released": "2023-02-10",
+          "Episode": "5",
+          "imdbRating": "9.5",
+          "imdbID": "tt14659486"
+        },
+        {
+          "Title": "Kin",
+          "Released": "2023-02-19",
+          "Episode": "6",
+          "imdbRating": "8.9",
+          "imdbID": "tt14659496"
+        },
+        {
+          "Title": "Left Behind",
+          "Released": "2023-02-26",
+          "Episode": "7",
+          "imdbRating": "7.4",
+          "imdbID": "tt15747172"
+        },
+        {
+          "Title": "Episode #1.8",
+          "Released": "2023-03-05",
+          "Episode": "8",
+          "imdbRating": "N/A",
+          "imdbID": "tt15747176"
+        },
+        {
+          "Title": "Look for the Light",
+          "Released": "2023-03-12",
+          "Episode": "9",
+          "imdbRating": "N/A",
+          "imdbID": "tt15747178"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "imdbID": "tt2560140",
+      "season": "1",
+      "episodes": [
+        {
+          "Title": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
+          "Released": "2013-09-28",
+          "Episode": "1",
+          "imdbRating": "9.1",
+          "imdbID": "tt2825724"
+        },
+        {
+          "Title": "That Day: The Fall of Shiganshina, Part 2",
+          "Released": "2014-05-10",
+          "Episode": "2",
+          "imdbRating": "8.5",
+          "imdbID": "tt2844574"
+        },
+        {
+          "Title": "A Dim Light Amid Despair: Humanity's Comeback, Part 1",
+          "Released": "2014-05-17",
+          "Episode": "3",
+          "imdbRating": "8.1",
+          "imdbID": "tt2858742"
+        },
+        {
+          "Title": "The Night of the Closing Ceremony: Humanity's Comeback, Part 2",
+          "Released": "2014-05-24",
+          "Episode": "4",
+          "imdbRating": "8.6",
+          "imdbID": "tt2858740"
+        },
+        {
+          "Title": "First Battle: The Struggle for Trost, Part 1",
+          "Released": "2014-05-31",
+          "Episode": "5",
+          "imdbRating": "9.2",
+          "imdbID": "tt2879076"
+        },
+        {
+          "Title": "The World the Girl Saw: The Struggle for Trost, Part 2",
+          "Released": "2014-06-07",
+          "Episode": "6",
+          "imdbRating": "8.9",
+          "imdbID": "tt2899140"
+        },
+        {
+          "Title": "Small Blade: The Struggle for Trost, Part 3",
+          "Released": "2014-06-14",
+          "Episode": "7",
+          "imdbRating": "8.9",
+          "imdbID": "tt2928458"
+        },
+        {
+          "Title": "I Can Hear His Heartbeat: The Struggle for Trost, Part 4",
+          "Released": "2014-06-21",
+          "Episode": "8",
+          "imdbRating": "9.2",
+          "imdbID": "tt2928456"
+        },
+        {
+          "Title": "Whereabouts of His Left Arm: The Struggle for Trost, Part 5",
+          "Released": "2014-06-28",
+          "Episode": "9",
+          "imdbRating": "8.8",
+          "imdbID": "tt2955788"
+        },
+        {
+          "Title": "Response: The Struggle for Trost, Part 6",
+          "Released": "2014-07-12",
+          "Episode": "10",
+          "imdbRating": "N/A",
+          "imdbID": "tt2955786"
+        },
+        {
+          "Title": "Idol: The Struggle for Trost, Part 7",
+          "Released": "2014-07-19",
+          "Episode": "11",
+          "imdbRating": "8.3",
+          "imdbID": "tt2990156"
+        },
+        {
+          "Title": "Wound: The Struggle for Trost, Part 8",
+          "Released": "2014-07-26",
+          "Episode": "12",
+          "imdbRating": "8.3",
+          "imdbID": "tt3005840"
+        },
+        {
+          "Title": "Primal Desire: The Struggle for Trost, Part 9",
+          "Released": "2014-08-02",
+          "Episode": "13",
+          "imdbRating": "8.9",
+          "imdbID": "tt3034014"
+        },
+        {
+          "Title": "Can't Look into His Eyes Yet: Eve of the Counterattack, Part 1",
+          "Released": "2014-08-09",
+          "Episode": "14",
+          "imdbRating": "8.5",
+          "imdbID": "tt3038178"
+        },
+        {
+          "Title": "Special Operations Squad: Eve of the Counterattack, Part 2",
+          "Released": "2014-08-16",
+          "Episode": "15",
+          "imdbRating": "8.1",
+          "imdbID": "tt3069226"
+        },
+        {
+          "Title": "What Needs to Be Done Now: Eve of the Counterattack, Part 3",
+          "Released": "2013-07-27",
+          "Episode": "16",
+          "imdbRating": "8.2",
+          "imdbID": "tt3086098"
+        },
+        {
+          "Title": "Female Titan: The 57th Expedition Beyond the Walls, Part 1",
+          "Released": "2013-08-04",
+          "Episode": "17",
+          "imdbRating": "9.1",
+          "imdbID": "tt3104218"
+        },
+        {
+          "Title": "Forest of Giant Trees: The 57th Expedition Beyond the Walls, Part 2",
+          "Released": "2013-08-11",
+          "Episode": "18",
+          "imdbRating": "8.8",
+          "imdbID": "tt3104224"
+        },
+        {
+          "Title": "Bite: The 57th Exterior Scouting Mission, Part 3",
+          "Released": "2013-08-18",
+          "Episode": "19",
+          "imdbRating": "8.9",
+          "imdbID": "tt3122060"
+        },
+        {
+          "Title": "Erwin Smith: The 57th Expedition Beyond the Walls, Part 4",
+          "Released": "2013-08-25",
+          "Episode": "20",
+          "imdbRating": "9.1",
+          "imdbID": "tt3134450"
+        },
+        {
+          "Title": "Crushing Blow: The 57th Exterior Scouting Mission, Part 5",
+          "Released": "2013-09-01",
+          "Episode": "21",
+          "imdbRating": "9.6",
+          "imdbID": "tt3148020"
+        },
+        {
+          "Title": "The Defeated: The 57th Expedition Beyond the Walls, Part 6",
+          "Released": "2013-09-08",
+          "Episode": "22",
+          "imdbRating": "9.0",
+          "imdbID": "tt3158344"
+        },
+        {
+          "Title": "Smile: Raid on Stohess District, Part 1",
+          "Released": "2013-09-15",
+          "Episode": "23",
+          "imdbRating": "9.0",
+          "imdbID": "tt3174238"
+        },
+        {
+          "Title": "Mercy: Raid on Stohess District, Part 2",
+          "Released": "2013-09-22",
+          "Episode": "24",
+          "imdbRating": "9.2",
+          "imdbID": "tt3174242"
+        },
+        {
+          "Title": "Wall: Raid on Stohess District, Part 3",
+          "Released": "2013-09-29",
+          "Episode": "25",
+          "imdbRating": "9.4",
+          "imdbID": "tt3174248"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "imdbID": "tt2560140",
+      "season": "2",
+      "episodes": [
+        {
+          "Title": "Beast Titan",
+          "Released": "2017-04-01",
+          "Episode": "1",
+          "imdbRating": "9.2",
+          "imdbID": "tt4228718"
+        },
+        {
+          "Title": "I'm Home",
+          "Released": "2017-04-08",
+          "Episode": "2",
+          "imdbRating": "8.5",
+          "imdbID": "tt6723670"
+        },
+        {
+          "Title": "Southwestward",
+          "Released": "2017-04-15",
+          "Episode": "3",
+          "imdbRating": "8.7",
+          "imdbID": "tt6723672"
+        },
+        {
+          "Title": "Soldier",
+          "Released": "2017-04-22",
+          "Episode": "4",
+          "imdbRating": "9.2",
+          "imdbID": "tt6723674"
+        },
+        {
+          "Title": "Historia",
+          "Released": "2017-04-29",
+          "Episode": "5",
+          "imdbRating": "9.2",
+          "imdbID": "tt6723678"
+        },
+        {
+          "Title": "Warrior",
+          "Released": "2017-05-06",
+          "Episode": "6",
+          "imdbRating": "9.8",
+          "imdbID": "tt6723680"
+        },
+        {
+          "Title": "Close Combat",
+          "Released": "2017-05-13",
+          "Episode": "7",
+          "imdbRating": "9.6",
+          "imdbID": "tt6723686"
+        },
+        {
+          "Title": "The Hunters",
+          "Released": "2017-05-20",
+          "Episode": "8",
+          "imdbRating": "8.4",
+          "imdbID": "tt6723692"
+        },
+        {
+          "Title": "Opening",
+          "Released": "2017-05-27",
+          "Episode": "9",
+          "imdbRating": "8.6",
+          "imdbID": "tt6723698"
+        },
+        {
+          "Title": "Children",
+          "Released": "2017-06-03",
+          "Episode": "10",
+          "imdbRating": "9.0",
+          "imdbID": "tt6723700"
+        },
+        {
+          "Title": "Totsugeki",
+          "Released": "2017-06-10",
+          "Episode": "11",
+          "imdbRating": "9.5",
+          "imdbID": "tt6723708"
+        },
+        {
+          "Title": "Scream",
+          "Released": "2017-06-17",
+          "Episode": "12",
+          "imdbRating": "9.7",
+          "imdbID": "tt6723710"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "imdbID": "tt2560140",
+      "season": "3",
+      "episodes": [
+        {
+          "Title": "Smoke Signal",
+          "Released": "2018-07-23",
+          "Episode": "1",
+          "imdbRating": "8.9",
+          "imdbID": "tt7029252"
+        },
+        {
+          "Title": "Pain",
+          "Released": "2018-07-30",
+          "Episode": "2",
+          "imdbRating": "9.3",
+          "imdbID": "tt8517724"
+        },
+        {
+          "Title": "Old Story",
+          "Released": "2018-08-06",
+          "Episode": "3",
+          "imdbRating": "8.7",
+          "imdbID": "tt8543946"
+        },
+        {
+          "Title": "Trust",
+          "Released": "2018-08-13",
+          "Episode": "4",
+          "imdbRating": "8.6",
+          "imdbID": "tt8543952"
+        },
+        {
+          "Title": "Reply",
+          "Released": "2018-08-20",
+          "Episode": "5",
+          "imdbRating": "9.1",
+          "imdbID": "tt8543956"
+        },
+        {
+          "Title": "Sin",
+          "Released": "2018-08-27",
+          "Episode": "6",
+          "imdbRating": "9.2",
+          "imdbID": "tt8543958"
+        },
+        {
+          "Title": "Wish",
+          "Released": "2018-09-03",
+          "Episode": "7",
+          "imdbRating": "9.5",
+          "imdbID": "tt8733180"
+        },
+        {
+          "Title": "Outside the Walls of Orvud District",
+          "Released": "2018-09-10",
+          "Episode": "8",
+          "imdbRating": "8.9",
+          "imdbID": "tt8733182"
+        },
+        {
+          "Title": "Ruler of the Walls",
+          "Released": "2018-09-17",
+          "Episode": "9",
+          "imdbRating": "9.3",
+          "imdbID": "tt8733184"
+        },
+        {
+          "Title": "Friends",
+          "Released": "2018-09-24",
+          "Episode": "10",
+          "imdbRating": "9.2",
+          "imdbID": "tt8733188"
+        },
+        {
+          "Title": "Bystander",
+          "Released": "2018-10-08",
+          "Episode": "11",
+          "imdbRating": "9.2",
+          "imdbID": "tt8733190"
+        },
+        {
+          "Title": "Night of the Battle to Retake the Wall",
+          "Released": "2018-10-15",
+          "Episode": "12",
+          "imdbRating": "8.9",
+          "imdbID": "tt8733192"
+        },
+        {
+          "Title": "The Town Where Everything Began",
+          "Released": "2019-04-29",
+          "Episode": "13",
+          "imdbRating": "9.6",
+          "imdbID": "tt9038682"
+        },
+        {
+          "Title": "Thunder Spears",
+          "Released": "2019-05-06",
+          "Episode": "14",
+          "imdbRating": "9.5",
+          "imdbID": "tt9790722"
+        },
+        {
+          "Title": "Descent",
+          "Released": "2019-05-13",
+          "Episode": "15",
+          "imdbRating": "9.6",
+          "imdbID": "tt9806162"
+        },
+        {
+          "Title": "Perfect Game",
+          "Released": "2019-05-20",
+          "Episode": "16",
+          "imdbRating": "9.9",
+          "imdbID": "tt9898836"
+        },
+        {
+          "Title": "Hero",
+          "Released": "2019-05-27",
+          "Episode": "17",
+          "imdbRating": "9.9",
+          "imdbID": "tt9906260"
+        },
+        {
+          "Title": "Midnight Sun",
+          "Released": "2019-06-03",
+          "Episode": "18",
+          "imdbRating": "9.9",
+          "imdbID": "tt10023374"
+        },
+        {
+          "Title": "The Basement",
+          "Released": "2019-06-10",
+          "Episode": "19",
+          "imdbRating": "9.2",
+          "imdbID": "tt10023452"
+        },
+        {
+          "Title": "That Day",
+          "Released": "2019-06-17",
+          "Episode": "20",
+          "imdbRating": "9.8",
+          "imdbID": "tt10034602"
+        },
+        {
+          "Title": "Attack Titan",
+          "Released": "2019-06-24",
+          "Episode": "21",
+          "imdbRating": "9.7",
+          "imdbID": "tt10064964"
+        },
+        {
+          "Title": "The Other Side of the Wall",
+          "Released": "2019-07-01",
+          "Episode": "22",
+          "imdbRating": "9.5",
+          "imdbID": "tt10064968"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "imdbID": "tt2560140",
+      "season": "4",
+      "episodes": [
+        {
+          "Title": "The Other Side of the Sea",
+          "Released": "2020-12-06",
+          "Episode": "1",
+          "imdbRating": "9.3",
+          "imdbID": "tt10783086"
+        },
+        {
+          "Title": "Midnight Train",
+          "Released": "2020-12-13",
+          "Episode": "2",
+          "imdbRating": "8.7",
+          "imdbID": "tt13586908"
+        },
+        {
+          "Title": "The Door of Hope",
+          "Released": "2020-12-20",
+          "Episode": "3",
+          "imdbRating": "9.3",
+          "imdbID": "tt13611850"
+        },
+        {
+          "Title": "From One Hand to Another",
+          "Released": "2020-12-27",
+          "Episode": "4",
+          "imdbRating": "N/A",
+          "imdbID": "tt13605712"
+        },
+        {
+          "Title": "Declaration of War",
+          "Released": "2021-01-10",
+          "Episode": "5",
+          "imdbRating": "9.8",
+          "imdbID": "tt13605714"
+        },
+        {
+          "Title": "The War Hammer Titan",
+          "Released": "2021-01-17",
+          "Episode": "6",
+          "imdbRating": "9.8",
+          "imdbID": "tt13819632"
+        },
+        {
+          "Title": "Assault",
+          "Released": "2021-01-24",
+          "Episode": "7",
+          "imdbRating": "9.9",
+          "imdbID": "tt13857684"
+        },
+        {
+          "Title": "Assassin's Bullet",
+          "Released": "2021-01-31",
+          "Episode": "8",
+          "imdbRating": "9.5",
+          "imdbID": "tt13907662"
+        },
+        {
+          "Title": "Brave Volunteers",
+          "Released": "2021-02-07",
+          "Episode": "9",
+          "imdbRating": "9.0",
+          "imdbID": "tt13971296"
+        },
+        {
+          "Title": "A Sound Argument",
+          "Released": "2021-02-14",
+          "Episode": "10",
+          "imdbRating": "N/A",
+          "imdbID": "tt13989258"
+        },
+        {
+          "Title": "Deceiver",
+          "Released": "2021-02-21",
+          "Episode": "11",
+          "imdbRating": "8.8",
+          "imdbID": "tt13996128"
+        },
+        {
+          "Title": "Guides",
+          "Released": "2021-02-28",
+          "Episode": "12",
+          "imdbRating": "8.9",
+          "imdbID": "tt14026060"
+        },
+        {
+          "Title": "Children of the Forest",
+          "Released": "2021-03-07",
+          "Episode": "13",
+          "imdbRating": "9.6",
+          "imdbID": "tt14093766"
+        },
+        {
+          "Title": "Savagery",
+          "Released": "2021-03-21",
+          "Episode": "14",
+          "imdbRating": "9.7",
+          "imdbID": "tt14132418"
+        },
+        {
+          "Title": "Sole Salvation",
+          "Released": "2021-03-21",
+          "Episode": "15",
+          "imdbRating": "9.6",
+          "imdbID": "tt14134628"
+        },
+        {
+          "Title": "Above and Below",
+          "Released": "2021-05-02",
+          "Episode": "16",
+          "imdbRating": "9.5",
+          "imdbID": "tt14134634"
+        },
+        {
+          "Title": "Judgment",
+          "Released": "2022-01-09",
+          "Episode": "17",
+          "imdbRating": "9.0",
+          "imdbID": "tt14342824"
+        },
+        {
+          "Title": "Sneak Attack",
+          "Released": "2022-01-16",
+          "Episode": "18",
+          "imdbRating": "9.3",
+          "imdbID": "tt14551446"
+        },
+        {
+          "Title": "Two Brothers",
+          "Released": "2022-01-23",
+          "Episode": "19",
+          "imdbRating": "9.8",
+          "imdbID": "tt17277218"
+        },
+        {
+          "Title": "Memories of the Future",
+          "Released": "2022-01-30",
+          "Episode": "20",
+          "imdbRating": "9.9",
+          "imdbID": "tt17505964"
+        },
+        {
+          "Title": "From You, 2000 Years Ago",
+          "Released": "2022-02-06",
+          "Episode": "21",
+          "imdbRating": "9.9",
+          "imdbID": "tt17594170"
+        },
+        {
+          "Title": "Thaw",
+          "Released": "2022-02-13",
+          "Episode": "22",
+          "imdbRating": "9.0",
+          "imdbID": "tt18211918"
+        },
+        {
+          "Title": "Sunset",
+          "Released": "2022-02-20",
+          "Episode": "23",
+          "imdbRating": "8.5",
+          "imdbID": "tt18286830"
+        },
+        {
+          "Title": "Pride",
+          "Released": "2022-02-27",
+          "Episode": "24",
+          "imdbRating": "8.5",
+          "imdbID": "tt18327540"
+        },
+        {
+          "Title": "Night of the End",
+          "Released": "2022-03-06",
+          "Episode": "25",
+          "imdbRating": "8.7",
+          "imdbID": "tt18412610"
+        },
+        {
+          "Title": "Traitor",
+          "Released": "2022-03-13",
+          "Episode": "26",
+          "imdbRating": "9.2",
+          "imdbID": "tt18484352"
+        },
+        {
+          "Title": "Retrospective",
+          "Released": "2022-03-20",
+          "Episode": "27",
+          "imdbRating": "9.6",
+          "imdbID": "tt18856536"
+        },
+        {
+          "Title": "The Dawn of Humanity",
+          "Released": "2022-04-03",
+          "Episode": "28",
+          "imdbRating": "9.7",
+          "imdbID": "tt18953204"
+        },
+        {
+          "Title": "The Final Chapters: Special 1",
+          "Released": "2023-03-03",
+          "Episode": "29",
+          "imdbRating": "9.7",
+          "imdbID": "tt21357640"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "imdbID": "tt2403776",
+      "season": "1",
+      "episodes": [
+        {
+          "Title": "A Searing Burst of Light",
+          "Released": "2021-04-23",
+          "Episode": "1",
+          "imdbRating": "7.6",
+          "imdbID": "tt9601506"
+        },
+        {
+          "Title": "We're All Someone's Monster",
+          "Released": "2021-04-23",
+          "Episode": "2",
+          "imdbRating": "7.6",
+          "imdbID": "tt9601508"
+        },
+        {
+          "Title": "The Making at the Heart of the World",
+          "Released": "2021-04-23",
+          "Episode": "3",
+          "imdbRating": "7.7",
+          "imdbID": "tt9601510"
+        },
+        {
+          "Title": "Otkazat'sya",
+          "Released": "2021-04-23",
+          "Episode": "4",
+          "imdbRating": "7.8",
+          "imdbID": "tt9601512"
+        },
+        {
+          "Title": "Show Me Who You Are",
+          "Released": "2021-04-23",
+          "Episode": "5",
+          "imdbRating": "8.4",
+          "imdbID": "tt9601514"
+        },
+        {
+          "Title": "The Heart Is an Arrow",
+          "Released": "2021-04-23",
+          "Episode": "6",
+          "imdbRating": "8.0",
+          "imdbID": "tt9601516"
+        },
+        {
+          "Title": "The Unsea",
+          "Released": "2021-04-23",
+          "Episode": "7",
+          "imdbRating": "8.1",
+          "imdbID": "tt9601518"
+        },
+        {
+          "Title": "No Mourners",
+          "Released": "2021-04-23",
+          "Episode": "8",
+          "imdbRating": "8.3",
+          "imdbID": "tt9601520"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "imdbID": "tt2403776",
+      "season": "2",
+      "episodes": [
+        {
+          "Title": "No Shelter But Me",
+          "Released": "2023-03-16",
+          "Episode": "1",
+          "imdbRating": "N/A",
+          "imdbID": "tt14804030"
+        },
+        {
+          "Title": "Rusalye",
+          "Released": "2023-03-16",
+          "Episode": "2",
+          "imdbRating": "N/A",
+          "imdbID": "tt14804032"
+        },
+        {
+          "Title": "Like Calls To Like",
+          "Released": "2023-03-16",
+          "Episode": "3",
+          "imdbRating": "N/A",
+          "imdbID": "tt14804034"
+        },
+        {
+          "Title": "Every Monstrous Thing",
+          "Released": "2023-03-16",
+          "Episode": "4",
+          "imdbRating": "N/A",
+          "imdbID": "tt14804036"
+        },
+        {
+          "Title": "Episode #2.5",
+          "Released": "2023-03-16",
+          "Episode": "5",
+          "imdbRating": "N/A",
+          "imdbID": "tt14804042"
+        },
+        {
+          "Title": "Ni Weh Sesh (I Have No Heart)",
+          "Released": "2023-03-16",
+          "Episode": "6",
+          "imdbRating": "N/A",
+          "imdbID": "tt14804044"
+        },
+        {
+          "Title": "Meet You in the Meadow",
+          "Released": "2023-03-16",
+          "Episode": "7",
+          "imdbRating": "N/A",
+          "imdbID": "tt14804046"
+        },
+        {
+          "Title": "No Funerals",
+          "Released": "2023-03-16",
+          "Episode": "8",
+          "imdbRating": "N/A",
+          "imdbID": "tt14804048"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "imdbID": "tt8878862",
+      "season": "1",
+      "episodes": [
+        {
+          "Title": "Queria muito que você estivesse aqui",
+          "Released": "2021-02-05",
+          "Episode": "1",
+          "imdbRating": "7.3",
+          "imdbID": "tt13993480"
+        },
+        {
+          "Title": "É um caminho sem volta",
+          "Released": "2021-02-05",
+          "Episode": "2",
+          "imdbRating": "N/A",
+          "imdbID": "tt13993488"
+        },
+        {
+          "Title": "Eles estão entre nós",
+          "Released": "2021-02-05",
+          "Episode": "3",
+          "imdbRating": "N/A",
+          "imdbID": "tt13993490"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "imdbID": "tt8878862",
+      "season": "2",
+      "episodes": [
+        {
+          "Title": "É tudo o que eu mais desejo",
+          "Released": "2023-03-22",
+          "Episode": "1",
+          "imdbRating": "N/A",
+          "imdbID": "tt14162876"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "imdbID": "tt12708542",
+      "season": "1",
+      "episodes": [
+        {
+          "Title": "Aftermath",
+          "Released": "2021-05-04",
+          "Episode": "1",
+          "imdbRating": "8.9",
+          "imdbID": "tt12711128"
+        },
+        {
+          "Title": "Cut and Run",
+          "Released": "2021-05-07",
+          "Episode": "2",
+          "imdbRating": "7.4",
+          "imdbID": "tt14120078"
+        },
+        {
+          "Title": "Replacements",
+          "Released": "2021-05-14",
+          "Episode": "3",
+          "imdbRating": "7.7",
+          "imdbID": "tt14149802"
+        },
+        {
+          "Title": "Cornered",
+          "Released": "2021-05-21",
+          "Episode": "4",
+          "imdbRating": "7.5",
+          "imdbID": "tt14417988"
+        },
+        {
+          "Title": "Rampage",
+          "Released": "2021-05-28",
+          "Episode": "5",
+          "imdbRating": "7.2",
+          "imdbID": "tt14417986"
+        },
+        {
+          "Title": "Decommissioned",
+          "Released": "2021-06-04",
+          "Episode": "6",
+          "imdbRating": "7.1",
+          "imdbID": "tt14418066"
+        },
+        {
+          "Title": "Battle Scars",
+          "Released": "2021-06-11",
+          "Episode": "7",
+          "imdbRating": "8.4",
+          "imdbID": "tt14418064"
+        },
+        {
+          "Title": "Reunion",
+          "Released": "2021-06-18",
+          "Episode": "8",
+          "imdbRating": "8.8",
+          "imdbID": "tt14418072"
+        },
+        {
+          "Title": "Bounty Lost",
+          "Released": "2021-06-25",
+          "Episode": "9",
+          "imdbRating": "8.3",
+          "imdbID": "tt14418070"
+        },
+        {
+          "Title": "Common Ground",
+          "Released": "2021-07-02",
+          "Episode": "10",
+          "imdbRating": "7.3",
+          "imdbID": "tt14418068"
+        },
+        {
+          "Title": "Devil's Deal",
+          "Released": "2021-07-09",
+          "Episode": "11",
+          "imdbRating": "7.8",
+          "imdbID": "tt14418672"
+        },
+        {
+          "Title": "Rescue on Ryloth",
+          "Released": "2021-07-16",
+          "Episode": "12",
+          "imdbRating": "7.9",
+          "imdbID": "tt14418674"
+        },
+        {
+          "Title": "Infested",
+          "Released": "2021-07-23",
+          "Episode": "13",
+          "imdbRating": "N/A",
+          "imdbID": "tt14418678"
+        },
+        {
+          "Title": "War-Mantle",
+          "Released": "2021-07-30",
+          "Episode": "14",
+          "imdbRating": "8.4",
+          "imdbID": "tt14418676"
+        },
+        {
+          "Title": "Return to Kamino",
+          "Released": "2021-08-06",
+          "Episode": "15",
+          "imdbRating": "8.9",
+          "imdbID": "tt14576488"
+        },
+        {
+          "Title": "Kamino Lost",
+          "Released": "2021-08-13",
+          "Episode": "16",
+          "imdbRating": "8.2",
+          "imdbID": "tt14576506"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "imdbID": "tt12708542",
+      "season": "2",
+      "episodes": [
+        {
+          "Title": "Spoils of War",
+          "Released": "2023-01-04",
+          "Episode": "1",
+          "imdbRating": "7.2",
+          "imdbID": "tt15176372"
+        },
+        {
+          "Title": "Ruins of War",
+          "Released": "2023-01-04",
+          "Episode": "2",
+          "imdbRating": "7.4",
+          "imdbID": "tt22027064"
+        },
+        {
+          "Title": "The Solitary Clone",
+          "Released": "2023-01-11",
+          "Episode": "3",
+          "imdbRating": "8.9",
+          "imdbID": "tt24175630"
+        },
+        {
+          "Title": "Faster",
+          "Released": "2023-01-18",
+          "Episode": "4",
+          "imdbRating": "6.5",
+          "imdbID": "tt24175642"
+        },
+        {
+          "Title": "Entombed",
+          "Released": "2023-01-25",
+          "Episode": "5",
+          "imdbRating": "6.2",
+          "imdbID": "tt24175660"
+        },
+        {
+          "Title": "Tribe",
+          "Released": "2023-02-01",
+          "Episode": "6",
+          "imdbRating": "7.6",
+          "imdbID": "tt24176202"
+        },
+        {
+          "Title": "The Clone Conspiracy",
+          "Released": "2023-02-08",
+          "Episode": "7",
+          "imdbRating": "8.7",
+          "imdbID": "tt24176204"
+        },
+        {
+          "Title": "Truth and Consequences",
+          "Released": "2023-02-08",
+          "Episode": "8",
+          "imdbRating": "9.1",
+          "imdbID": "tt24176206"
+        },
+        {
+          "Title": "The Crossing",
+          "Released": "2023-02-15",
+          "Episode": "9",
+          "imdbRating": "7.0",
+          "imdbID": "tt24176208"
+        },
+        {
+          "Title": "Retrieval",
+          "Released": "2023-02-22",
+          "Episode": "10",
+          "imdbRating": "N/A",
+          "imdbID": "tt24176210"
+        },
+        {
+          "Title": "Metamorphosis",
+          "Released": "2023-03-01",
+          "Episode": "11",
+          "imdbRating": "8.2",
+          "imdbID": "tt24176212"
+        },
+        {
+          "Title": "The Outpost",
+          "Released": "2023-03-08",
+          "Episode": "12",
+          "imdbRating": "N/A",
+          "imdbID": "tt24176214"
+        },
+        {
+          "Title": "Pabu",
+          "Released": "2023-03-15",
+          "Episode": "13",
+          "imdbRating": "N/A",
+          "imdbID": "tt24176216"
+        },
+        {
+          "Title": "Tipping Point",
+          "Released": "2023-03-22",
+          "Episode": "14",
+          "imdbRating": "N/A",
+          "imdbID": "tt24176252"
+        },
+        {
+          "Title": "The Summit",
+          "Released": "2023-03-29",
+          "Episode": "15",
+          "imdbRating": "N/A",
+          "imdbID": "tt24176258"
+        },
+        {
+          "Title": "Plan 99",
+          "Released": "2023-03-29",
+          "Episode": "16",
+          "imdbRating": "N/A",
+          "imdbID": "tt24176262"
+        }
+      ],
+      "id": 32
     }
   ]
 }
